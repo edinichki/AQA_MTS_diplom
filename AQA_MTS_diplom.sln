@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AQA_MTS_diplom", "AQA_MTS_diplom\AQA_MTS_diplom.csproj", "{28A56AA2-95B6-4827-A21B-8B1C0B96B41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28A56AA2-95B6-4827-A21B-8B1C0B96B41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A56AA2-95B6-4827-A21B-8B1C0B96B41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A56AA2-95B6-4827-A21B-8B1C0B96B41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A56AA2-95B6-4827-A21B-8B1C0B96B41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4763451B-8140-4BE2-9464-87DDB5814C58}
+	EndGlobalSection
+EndGlobal
